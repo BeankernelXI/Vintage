@@ -1,4 +1,4 @@
-`Vintage`_ is a vi editing package for Sublime Text 2.
+`VintageBean`_ is a modification of `Vintage`_, a vi editing package for Sublime Text 2.
 
 .. _Vintage: http://www.sublimetext.com/docs/2/vintage.html
 
