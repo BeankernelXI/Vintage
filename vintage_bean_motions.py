@@ -1,7 +1,7 @@
 import re
 import sublime, sublime_plugin
-from vintage import transform_selection
-from vintage import transform_selection_regions
+from vintage_bean import transform_selection
+from vintage_bean import transform_selection_regions
 
 class ViSpanCountLines(sublime_plugin.TextCommand):
     def run(self, edit, repeat = 1):
